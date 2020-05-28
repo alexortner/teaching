@@ -30,3 +30,4 @@ In this git folder you find Jupyter Notebooks where I applied the Top 10 binary 
 ## Medium Article
 
 Some more details about this learning notebooks can be found in my Medium article 
+https://medium.com/@alex.ortner.1982/top-10-binary-classification-algorithms-a-beginners-guide-feeacbd7a3e2
